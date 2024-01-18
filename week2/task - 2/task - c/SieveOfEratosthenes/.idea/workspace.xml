@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7f9d44dd-a945-4bf1-98a7-e5368b88bc6b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/src/main/java/edu/penzgtu/opp/AgeFormatter/AgeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/AgeFormatter/src/test/java/edu/penzgtu/opp/AgeFormatter/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/src/main/java/edu/penzgtu/opp/MonthDaysCalculator/MonthDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/MonthDaysCalculator/src/test/java/edu/penzgtu/opp/MonthDaysCalculator/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/src/main/java/edu/penzgtu/opp/BadmintonDecisionMaker/BadmintonDecisionMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/BadmintonDecisionMaker/src/test/java/edu/penzgtu/opp/BadmintonDecisionMaker/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/src/main/java/edu/penzgtu/opp/PyramidPrinter/PyramidPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/PyramidPrinter/src/test/java/edu/penzgtu/opp/PyramidPrinter/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/src/main/java/edu/penzgtu/opp/HeronSquareRoot/HeronSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/HeronSquareRoot/src/test/java/edu/penzgtu/opp/HeronSquareRoot/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2awxCcBwTQ3YOZIW2cO3eTCRmXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SieveOfEratosthenes.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-e1d2075fd9a7-d4e022e8" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f9d44dd-a945-4bf1-98a7-e5368b88bc6b" name="Changes" comment="" />
+      <created>1705243428368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705243428368</updated>
+    </task>
+    <servers />
+  </component>
+</project>

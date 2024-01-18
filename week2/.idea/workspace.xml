@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65dbb2dc-a669-4580-b8ee-0dd227007f75" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/week2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/src/main/java/edu/penzgtu/opp/AgeFormatter/AgeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - a/AgeFormatter/src/test/java/edu/penzgtu/opp/AgeFormatter/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/src/main/java/edu/penzgtu/opp/MonthDaysCalculator/MonthDaysCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - b/MonthDaysCalculator/src/test/java/edu/penzgtu/opp/MonthDaysCalculator/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/src/main/java/edu/penzgtu/opp/BadmintonDecisionMaker/BadmintonDecisionMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 1/task - c/BadmintonDecisionMaker/src/test/java/edu/penzgtu/opp/BadmintonDecisionMaker/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/src/main/java/edu/penzgtu/opp/PyramidPrinter/PyramidPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - a/PyramidPrinter/src/test/java/edu/penzgtu/opp/PyramidPrinter/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/src/main/java/edu/penzgtu/opp/HeronSquareRoot/HeronSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - b/HeronSquareRoot/src/test/java/edu/penzgtu/opp/HeronSquareRoot/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/src/main/java/org/example/SieveOfEratosthenes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 2/task - c/SieveOfEratosthenes/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/src/main/java/edu/penzgtu/opp/MaxCount/MaxCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - a/MaxCount/src/test/java/edu/penzgtu/opp/MaxCount/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/src/main/java/edu/penzgtu/opp/MedianFinder/MedianFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task - 3/task - c/MedianFinder/src/test/java/edu/penzgtu/opp/MedianFinder/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2awgX6NxtPl90vaKhAMsUQvYcNT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alllcryx/Рабочий стол/labworks",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65dbb2dc-a669-4580-b8ee-0dd227007f75" name="Changes" comment="" />
+      <created>1705235093796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705235093796</updated>
+    </task>
+    <servers />
+  </component>
+</project>
