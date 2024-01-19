@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3452991e-ae9b-476e-b3c1-99d6d2bbd2b8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/src/main/java/edu/penzgtu/opp/Permutations/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - a/Permutations/src/test/java/edu/penzgtu/opp/Permutations/Permutations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/src/main/java/edu/penzgtu/opp/StockProfit/StockProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - b/StockProfit/src/test/java/edu/penzgtu/opp/StockProfit/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/src/main/java/edu/penzgtu/opp/WaterContainer/WaterContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 1/task - c/WaterContainer/src/test/java/edu/penzgtu/opp/WaterContainer/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/src/main/java/edu/penzgtu/opp/DictionaryConverter/DictionaryConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - a/DictionaryConverter/src/test/java/edu/penzgtu/opp/DictionaryConverter/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/src/main/java/edu/penzgtu/opp/SalesDatabase/SalesDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - b/SalesDatabase/src/test/java/edu/penzgtu/opp/SalesDatabase/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/src/main/java/FibonacciClassic/FibonacciOptimized.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/src/main/java/edu/penzgtu/opp/FibonacciClassic/FibonacciClassic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../task - 2/task - c/FibonacciClassic/src/test/java/edu/penzgtu/opp/FibonacciClassic/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/src/main/java/edu/penzgtu/opp/RemoteDuplicates/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - a/RemoteDuplicates/src/test/java/edu/penzgtu/opp/RemoteDuplicates/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/src/main/java/edu/penzgtu/opp/SchoolLanguages/SchoolLanguages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../task - b/SchoolLanguages/src/test/java/edu/penzgtu/opp/SchoolLanguages/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/penzgtu/opp/BracketValidator/BracketValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/edu/penzgtu/opp/BracketValidator/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week1/dodecahedron/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week1/dodecahedron/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week1/dodecahedron/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week1/dodecahedron/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week1/helloUser/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week1/helloUser/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../week1/types/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../week1/types/.idea/misc.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bAraEGfPOYjMeWFUqmg63vKrsJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BracketValidator.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/alllcryx/Рабочий стол/labworks"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3452991e-ae9b-476e-b3c1-99d6d2bbd2b8" name="Changes" comment="" />
+      <created>1705668788366</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705668788366</updated>
+    </task>
+    <servers />
+  </component>
+</project>
