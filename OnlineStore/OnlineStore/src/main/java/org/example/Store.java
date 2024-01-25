@@ -1,17 +1,28 @@
 package org.example;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Locale;
-import java.util.Scanner;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.*;
 
 public class Store {
     private final List<Catalog> catalogs;
     private final ShoppingCart shoppingCart;
+    private String jsonFilename;
 
     public Store() {
         this.catalogs = new ArrayList<>();
         this.shoppingCart = new ShoppingCart();
+    }
+
+    public Store(final String filename) {
+        this.catalogs = new ArrayList<>();
+        this.shoppingCart = new ShoppingCart();
+        this.setJsonFilename(filename);
     }
 
     public List<Catalog> getCatalogs() {
@@ -20,6 +31,19 @@ public class Store {
 
     public ShoppingCart getShoppingCart() {
         return new ShoppingCart(this.shoppingCart);
+    }
+
+    public String getJsonFilename() {
+        return this.jsonFilename;
+    }
+
+    public void setJsonFilename(final String filename) {
+        if (this.isValidJsonFile(filename)) {
+            this.jsonFilename = filename;
+            this.retrieveCatalogsFromJson();
+        } else {
+            throw new RuntimeException("Этот файл не является файлом JSON или неправильный JSON.");
+        }
     }
 
     public int getCatalogsCount() {
@@ -130,5 +154,36 @@ public class Store {
 
     public int getShoppingCartItemsCount() {
         return this.shoppingCart.getItems().size();
+    }
+
+    private Optional<String> getExtensionByStringHandling(final String filename) {
+        return Optional.ofNullable(filename)
+                .filter(f -> f.contains("."))
+                .map(f -> f.substring(filename.lastIndexOf(".") + 1));
+    }
+
+    private boolean isValidJsonFile(final String filename) {
+        return this.getExtensionByStringHandling(filename).equals(Optional.of("json"));
+    }
+
+    private void retrieveCatalogsFromJson() {
+        JSONParser jsonParser = new JSONParser();
+        try {
+            Object object = jsonParser.parse(new FileReader(this.jsonFilename));
+            JSONObject jsonObject = (JSONObject) object;
+            JSONObject storeInJSON = (JSONObject) jsonObject.get("store");
+            JSONArray catalogsInJSON = (JSONArray) storeInJSON.get("catalogs");
+            for (JSONObject catalogInJson : (Iterable<JSONObject>) catalogsInJSON) {
+                String name = (String) catalogInJson.get("name");
+                Catalog catalog = new Catalog(name);
+                JSONArray productsInJSON = (JSONArray) catalogInJson.get("products");
+                catalog.retrieveProductsFromJson(productsInJSON);
+                this.addCatalog(catalog);
+            }
+        } catch (ParseException e) {
+            throw new RuntimeException(e);
+        } catch (IOException e) {
+            this.setJsonFilename(this.jsonFilename.split("/")[1]);
+        }
     }
 }

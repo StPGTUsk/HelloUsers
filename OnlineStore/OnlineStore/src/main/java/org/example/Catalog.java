@@ -1,5 +1,8 @@
 package org.example;
 
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -47,5 +50,20 @@ public class Catalog {
             }
         }
         return null;
+    }
+
+
+    public void retrieveProductsFromJson(final JSONArray productsInJSON) {
+        for (JSONObject productInJson : (Iterable<JSONObject>) productsInJSON) {
+            String name = (String) productInJson.get("name");
+            double price;
+            try {
+                price = Double.parseDouble((String) productInJson.get("price"));
+            } catch (NumberFormatException e) {
+                throw new RuntimeException("Неверное значение цены товара " + name + ".");
+            }
+            Product product = new Product(name, price);
+            this.addProduct(product);
+        }
     }
 }

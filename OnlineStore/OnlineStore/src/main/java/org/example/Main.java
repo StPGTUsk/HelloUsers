@@ -127,9 +127,11 @@ public class Main {
         mainMenu();
     }
 
-    public static void main(String[] args) {
-        System.out.println("Интернет-магазин электротехники.");
-        scanner = new Scanner(System.in);
+    private static void getDataFromJSONFile() {
+        store = new Store("resources/data.json");
+    }
+
+    private static void getDataFromObjects() {
         store = new Store();
         laptops = new Catalog("Ноутбоки");
         laptop1 = new Product("Sony VAIO FE14", 69999.0);
@@ -143,6 +145,12 @@ public class Main {
         smartphones.addProduct(smartphone2);
         store.addCatalog(laptops);
         store.addCatalog(smartphones);
+    }
+
+    public static void main(String[] args) {
+        System.out.println("Интернет-магазин электротехники.");
+        scanner = new Scanner(System.in);
+        getDataFromJSONFile();
         mainMenu();
     }
 }

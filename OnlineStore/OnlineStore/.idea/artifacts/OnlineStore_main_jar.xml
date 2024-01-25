@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="OnlineStore.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/OnlineStore_main_jar</output-path>
+    <root id="root">
+      <element id="archive" name="OnlineStore.main.jar">
+        <element id="module-output" name="OnlineStore.main" />
+      </element>
+      <element id="library" level="project" name="Gradle: junit:junit:4.10" />
+      <element id="library" level="project" name="Gradle: com.googlecode.json-simple:json-simple:1.1.1" />
+      <element id="library" level="project" name="Gradle: org.hamcrest:hamcrest-core:1.1" />
+    </root>
+  </artifact>
+</component>
